@@ -6,7 +6,6 @@
 package cnmplayer;
 
 import clib.filter.CNMFilter;
-import clib.io.Reader;
 import clib.layer.PageLayer;
 import clib.layer.TextLayer;
 import java.awt.Dimension;

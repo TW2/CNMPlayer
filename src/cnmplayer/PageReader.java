@@ -5,7 +5,6 @@
  */
 package cnmplayer;
 
-import clib.io.Page;
 import clib.layer.PageLayer;
 import java.awt.Dimension;
 import javax.swing.JScrollPane;

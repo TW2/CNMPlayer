@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package clib.io;
+package cnmplayer;
 
 import clib.layer.ImageLayer;
 import clib.layer.PageLayer;
