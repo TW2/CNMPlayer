@@ -1,4 +1,7 @@
 # CNMPlayer
-Read internationalized comics and mangas.
 
-You can download this software at <a href="http://minna.red/redarchive/">this address</a>.
+| Working with | Discord |
+| ------------ | ------- |
+| ![Java 8](https://github.com/TW2/logonator/blob/main/status/github-status-j8.png) | <a href="https://discord.gg/ssU9SKg">![Discord](https://github.com/TW2/logonator/blob/main/logos/discord-100x40.png)</a> |
+
+Read internationalized comics and mangas.
